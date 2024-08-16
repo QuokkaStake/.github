@@ -6,12 +6,12 @@ We are currently securing over $3,000,000 worth of assets and validate 9 mainnet
 Join our journey and support what we're doing by staking with us!
 
 - [Sentinel](https://www.mintscan.io/sentinel/validators/sentvaloper1rw9wtyhsus7jvx55v3qv5nzun054ma6kz4237k)
-- [Gitopia](https://ping.pub/gitopia/staking/gitopiavaloper1w52vzp25uj9zvd0rtt6s6stud3ff8n3pzklusg)
 - [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper14rvn7anf22e00vj5x3al4w50ns78s7n42rc0ge)
 - [Decentr](https://explorer.decentr.net/validators/decentrvaloper1nuhk7uke8ux2h7zpg44u7gyksgkz0fcjpf2074?networkId=mainnet)
 - [Nomic](https://app.nomic.io/#/staking?validator=nomic1cugv7uxm0qw749jpjag5tw64k9wj0n3fe8vss5&modal=info)
 - [Jackal](https://ping.pub/jackal/staking/jklvaloper1ramqkapjkg0f58vypc43szaqp5juq0ly93t3hm)
 - [Cosmos Hub](https://www.mintscan.io/cosmos/validators/cosmosvaloper1xqz9pemz5e5zycaa89kys5aw6m8rhgsvw4328e)
+- [Penumbra](https://void.s9.gay/app/#/staking)
 
 ### Our Tools
 
@@ -30,7 +30,7 @@ If you want to contribute in some way, feel free to submit an issue (if you have
 ### How to contact us?
 
 In case you want to know more, or have questions, or just want to chats, here's where you can find us:
-- [Keybase](https://keybase.io/quokkastae)
+- [Keybase](https://keybase.io/quokkastake)
 - Telegram channel: [EN](https://t.me/quokkastake) | [RU](https://t.me/quokkastake_ru)
 - [Website](https://quokkastake.io)
 - [e-mail](mailto:quokkastake@gmail.com)
